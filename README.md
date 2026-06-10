@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rajesh Reddy 👋
 
-<!--
-**rajeshreddy021/rajeshreddy021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 AI & Data Science Student
 
-Here are some ideas to get you started:
+🤖 Interested in:
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Interview Judge System
+🔹 Heart Disease Prediction
+🔹 Suspicious Person Detection Robot
+🔹 Burglar Alarm Robot
+
+## Tech Stack
+Java | Python | Spring Boot | MySQL | OpenCV | YOLOv8
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/rajesh-kumar-reddy-kasireddy-26609731b
+Email: rajeshkumarreddykasireddy5@gmail.com
