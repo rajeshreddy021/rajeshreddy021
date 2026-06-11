@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajeshreddy021/rajeshreddy021/main/banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm K. Rajesh Reddy</h1>
 
 <h3 align="center">
