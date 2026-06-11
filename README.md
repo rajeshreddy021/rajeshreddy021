@@ -1,43 +1,66 @@
 <h1 align="center">Hi 👋, I'm Rajesh Reddy</h1>
 
-<h3 align="center">AI & Data Science Student | Machine Learning | Computer Vision | Robotics</h3>
+<h3 align="center">
+AI & Data Science Student | Machine Learning | Computer Vision | Robotics
+</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rajeshreddy021&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 AI & Data Science Student
-- 🤖 Interested in Machine Learning, Deep Learning, Computer Vision and Robotics
-- 💻 Building AI and Spring Boot Applications
-- 📚 Learning Advanced AI Systems
+- 🤖 Interested in Machine Learning & Robotics
+- 💻 Spring Boot Developer
+- 📚 Working on AI-based Applications
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 My Tech Toolbox
 
-Java • Python • Spring Boot • MySQL • OpenCV • YOLOv8 • Machine Learning • Deep Learning
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeshreddy021&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshreddy021&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=rajeshreddy021&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshreddy021&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
-- Interview Judge System
-- Heart Disease Prediction
-- Suspicious Person Detection Robot
-- Burglar Alarm Robot
-- YOLOv8 CCTV Object Detection
+✅ Interview Judge System
+
+✅ Heart Disease Prediction
+
+✅ Suspicious Person Detection Robot
+
+✅ Burglar Alarm Robot
+
+✅ YOLOv8 CCTV Detection System
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/rajesh-kumar-reddy-kasireddy-26609731b
-- Email: rajeshkumarreddykasireddy5@gmail.com
+[LinkedIn](www.linkedin.com/in/rajesh-kumar-reddy-kasireddy-26609731b)
