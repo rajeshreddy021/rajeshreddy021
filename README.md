@@ -17,16 +17,8 @@ AI & Data Science Student | Machine Learning | Computer Vision | Robotics
 
 ## 🛠 My Tech Toolbox
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=spring" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=opencv" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,vscode" />
 </p>
 
 ---
