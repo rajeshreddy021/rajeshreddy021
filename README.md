@@ -1,54 +1,106 @@
-<h1 align="center">Hi 👋, I'm Rajesh Reddy</h1>
+<h1 align="center">Hi 👋, I'm K. Rajesh Reddy</h1>
 
 <h3 align="center">
-AI & Data Science Student | Machine Learning | Computer Vision | Robotics
+AI & Data Science Student | Machine Learning | Computer Vision | Robotics | Spring Boot Developer
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 AI & Data Science Student
-- 🤖 Interested in Machine Learning & Robotics
-- 💻 Spring Boot Developer
-- 📚 Working on AI-based Applications
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science
+- 🤖 Passionate about Machine Learning, Computer Vision and Robotics
+- 💻 Building AI-powered applications using Spring Boot and Python
+- 🔬 Interested in Intelligent Surveillance Systems and Real-Time AI Solutions
+- 📚 Continuously learning and exploring emerging AI technologies
 
 ---
 
-## 🛠 My Tech Toolbox
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,vscode,opencv,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajeshreddy021&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rajeshreddy021&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshreddy021&layout=compact&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshreddy021&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Contribution Streak
 
-✅ Interview Judge System
+<p align="center">
 
-✅ Heart Disease Prediction
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshreddy021&theme=tokyonight&hide_border=true"/>
 
-✅ Suspicious Person Detection Robot
+</p>
 
-✅ Burglar Alarm Robot
+---
 
-✅ YOLOv8 CCTV Detection System
+## 🚀 Featured Projects
+
+### 🎯 Interview Judge System
+AI-powered interview evaluation platform built using Spring Boot, MySQL and intelligent scoring mechanisms.
+
+### ❤️ Heart Disease Prediction System
+Machine learning based healthcare prediction system using SVM, ANN, XGBoost and CatBoost models.
+
+### 🤖 Suspicious Person Detection Robot
+Real-time surveillance robot using Raspberry Pi, Computer Vision and AI-powered behavioral analysis.
+
+### 🚨 Burglar Alarm Robot
+Autonomous security monitoring system developed using ROS2, Gazebo and Computer Vision.
+
+### 🎥 YOLOv8 CCTV Object Detection
+Real-time object detection and tracking system using CCTV cameras and YOLOv8.
+
+---
+
+## 📚 Research Interests
+
+- Computer Vision
+- Deep Learning
+- Explainable AI
+- Robotics
+- Intelligent Surveillance Systems
+- Human Behavior Analysis
+
+---
+
+## 🏆 Achievements
+
+- Published and presented AI/ML based academic projects
+- Developed real-time Computer Vision applications
+- Built end-to-end Spring Boot based enterprise applications
+- Actively exploring research in AI and Robotics
 
 ---
 
 ## 🌐 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/rajesh-kumar-reddy-kasireddy-26609731b)
+<p align="left">
+
+<a href="www.linkedin.com/in/rajesh-kumar-reddy-kasireddy-26609731b">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:rajeshkumarreddykasireddy5@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider exploring my repositories and projects!
+</p>
