@@ -20,35 +20,77 @@ AI & Data Science Student | Machine Learning | Computer Vision | Robotics | Spri
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" /><br>
+<b>Java</b>
+</td>
 
-<a href="https://www.java.com">
-<img src="https://skillicons.dev/icons?i=java" />
-</a>
+<td width="20"></td>
 
-<a href="https://www.python.org">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" /><br>
+<b>Python</b>
+</td>
 
-<a href="https://spring.io">
-<img src="https://skillicons.dev/icons?i=spring" />
-</a>
+<td width="20"></td>
 
-<a href="https://www.mysql.com">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring" /><br>
+<b>Spring Boot</b>
+</td>
 
-<a href="https://git-scm.com">
-<img src="https://skillicons.dev/icons?i=git" />
-</a>
+<td width="20"></td>
 
-<a href="https://github.com">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" /><br>
+<b>MySQL</b>
+</td>
 
-</p>
+<td width="20"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" /><br>
+<b>Git</b>
+</td>
+
+<td width="20"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" /><br>
+<b>GitHub</b>
+</td>
+</tr>
+
+<tr>
+<td colspan="11" height="20"></td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" /><br>
+<b>VS Code</b>
+</td>
+
+<td width="20"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" /><br>
+<b>Linux</b>
+</td>
+
+<td width="20"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=opencv" /><br>
+<b>OpenCV</b>
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📊 GitHub Statistics
