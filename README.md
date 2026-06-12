@@ -24,45 +24,59 @@ AI & Data Science Student | Machine Learning | Computer Vision | Robotics | Spri
 
 <table align="center">
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=java" /><br>
+<a href="https://www.java.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" />
+</a><br>
 <b>Java</b>
 </td>
 
 <td width="20"></td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python" /><br>
+<a href="https://www.python.org" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" />
+</a><br>
 <b>Python</b>
 </td>
 
 <td width="20"></td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=spring" /><br>
+<a href="https://spring.io" target="_blank">
+<img src="https://skillicons.dev/icons?i=spring" />
+</a><br>
 <b>Spring Boot</b>
 </td>
 
 <td width="20"></td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" /><br>
+<a href="https://www.mysql.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a><br>
 <b>MySQL</b>
 </td>
 
 <td width="20"></td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" /><br>
+<a href="https://git-scm.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" />
+</a><br>
 <b>Git</b>
 </td>
 
 <td width="20"></td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" /><br>
+<a href="https://github.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a><br>
 <b>GitHub</b>
 </td>
+
 </tr>
 
 <tr>
@@ -70,24 +84,32 @@ AI & Data Science Student | Machine Learning | Computer Vision | Robotics | Spri
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" /><br>
+<a href="https://code.visualstudio.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a><br>
 <b>VS Code</b>
 </td>
 
 <td width="20"></td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=linux" /><br>
+<a href="https://www.linux.org" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" />
+</a><br>
 <b>Linux</b>
 </td>
 
 <td width="20"></td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=opencv" /><br>
+<a href="https://opencv.org" target="_blank">
+<img src="https://skillicons.dev/icons?i=opencv" />
+</a><br>
 <b>OpenCV</b>
 </td>
+
 </tr>
 </table>
 
