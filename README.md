@@ -23,7 +23,31 @@ AI & Data Science Student | Machine Learning | Computer Vision | Robotics | Spri
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,vscode,linux" />
+
+<a href="https://www.java.com">
+<img src="https://skillicons.dev/icons?i=java" />
+</a>
+
+<a href="https://www.python.org">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://spring.io">
+<img src="https://skillicons.dev/icons?i=spring" />
+</a>
+
+<a href="https://www.mysql.com">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://git-scm.com">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 ---
 
