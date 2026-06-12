@@ -23,9 +23,8 @@ AI & Data Science Student | Machine Learning | Computer Vision | Robotics | Spri
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,vscode,opencv,linux" />
+<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,vscode,linux" />
 </p>
-
 ---
 
 ## 📊 GitHub Statistics
