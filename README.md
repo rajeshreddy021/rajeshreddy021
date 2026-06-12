@@ -92,8 +92,7 @@ Real-time object detection and tracking system using CCTV cameras and YOLOv8.
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="www.linkedin.com/in/rajesh-kumar-reddy-kasireddy-26609731b">
+<a href="https://www.linkedin.com/in/rajesh-kumar-reddy-kasireddy-26609731b/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
